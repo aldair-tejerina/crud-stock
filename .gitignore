@@ -1,0 +1,20 @@
+# Ignorar archivos temporales y del sistema
+desktop.ini
+Thumbs.db
+
+# Ignorar accesos directos de Windows
+*.lnk
+
+# Ignorar archivos comprimidos
+*.rar
+*.zip
+*.7z
+
+# Ignorar ejecutables
+*.exe
+
+# Ignorar archivos multimedia grandes
+*.mp4
+*.avi
+*.mkv
+
